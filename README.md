@@ -1,0 +1,2 @@
+# Emby-Toolbox
+Emby tools ( IDFINDER, DUPLICATE FINDER, GENRE FINDER
