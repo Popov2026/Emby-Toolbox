@@ -1,0 +1,12 @@
+# Configuration locale et secrets (ne jamais committer)
+*.ini
+emby_secret.key
+
+# Exports et scans
+*.html
+*.csv
+*.json
+
+# Python
+__pycache__/
+*.pyc
