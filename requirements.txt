@@ -1,0 +1,9 @@
+# Emby Toolbox - dépendances
+dearpygui>=2.0
+requests>=2.28
+
+# Chiffrement de repli si DPAPI indisponible (recommandé)
+cryptography>=41.0
+
+# Optionnel (traitements d'image)
+pillow>=10.0
